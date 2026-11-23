@@ -3,7 +3,7 @@ import { existsSync } from 'node:fs';
 import { join } from 'node:path';
 
 const root = new URL('../skills/', import.meta.url);
-for (const category of ['local', 'imported']) {
+for (const category of ['local', 'imported', 'taste']) {
   const directory = new URL(`${category}/`, root);
   if (!existsSync(directory)) continue;
   for (const entry of await readdir(directory, { withFileTypes: true })) {

@@ -8,6 +8,7 @@
 skills/
   imported/<skill>/  외부 스킬과 provenance.json
   local/             직접 작성한 스킬
+  taste/             관심 있는 스킬
   deprecated/        보관 중인 스킬
 ```
 
@@ -29,6 +30,8 @@ skills/
 각 폴더의 provenance.json에 원본과 확인한 라이선스를 기록했습니다. 라이선스가 확인되지 않은 항목은 원저작자에게 이용 조건을 확인하세요.
 
 `skills/local/herdr-cli`와 `skills/deprecated/herdr-agent`는 참고 저장소에서 가져왔습니다. `deprecated`는 스킬 목록에서 제외됩니다.
+
+`skills/taste/`에는 [i-have-adhd](skills/taste/i-have-adhd)와 [mongodb-query-optimizer](skills/taste/mongodb-query-optimizer)를 보관합니다.
 
 ## 사용
 
