@@ -21,8 +21,14 @@ skills/
 | [react-view-transitions](skills/imported/react-view-transitions) | React 화면 전환 |
 | [react-native-skills](skills/imported/react-native-skills) | React Native 성능과 구조 |
 | [vercel-optimize](skills/imported/vercel-optimize) | Vercel 프로젝트 성능과 비용 분석 |
+| [agent-browser](skills/imported/agent-browser) | 에이전트용 브라우저 자동화 CLI |
+| [aside-browser](skills/imported/aside-browser) | Aside 브라우저 사용 지침 |
+| [grill-me](skills/imported/grill-me) | 계획을 질문으로 구체화 |
+| [grilling](skills/imported/grilling) | 의사결정을 단계별 질문으로 검토 |
 
-원본은 [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)입니다. 각 폴더의 provenance.json에 가져온 경로와 버전을 기록했습니다. 원본 README는 MIT 라이선스를 명시합니다.
+각 폴더의 provenance.json에 원본과 확인한 라이선스를 기록했습니다. 라이선스가 확인되지 않은 항목은 원저작자에게 이용 조건을 확인하세요.
+
+`skills/local/herdr-cli`와 `skills/deprecated/herdr-agent`는 참고 저장소에서 가져왔습니다. `deprecated`는 스킬 목록에서 제외됩니다.
 
 ## 사용
 
