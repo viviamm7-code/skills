@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.agents/
+.claude/
+__pycache__/
+.scratch/
