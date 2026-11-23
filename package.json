@@ -4,6 +4,6 @@
   "private": true,
   "description": "개인 에이전트 스킬 카탈로그",
   "scripts": {
-    "list": "node scripts/list-skills.mjs"
+    "list": "node src/list-skills.mjs"
   }
 }
